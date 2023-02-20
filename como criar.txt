@@ -1,0 +1,4 @@
+para criar um projeto em react
+usamos:
+npm create vite@lateste "nome" --template react
+exemplo: npm create vite@lateste reactapp --template react
